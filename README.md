@@ -6,6 +6,7 @@ Proyecto .NET básico pensado como punto de partida para practicar una CI sencil
 
 ```text
 basic-.NET-project/
+	BasicDotNetProject.sln
 	README.md
 	src/
 		App.csproj
